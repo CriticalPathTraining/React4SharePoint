@@ -1,5 +1,4 @@
 import * as React from 'react';
-import * as AppImages from './../images/AppImages';
 import './../../node_modules/office-ui-fabric-react/dist/css/fabric.min.css';
 import './App.scss';
 
